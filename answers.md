@@ -11,4 +11,8 @@
 "commit 57d616a8f4f226f7fb22e4a0047c1ce58327377c (HEAD -> main, origin/main)
 Author: Sophie151 <Sw030522@ohio.edu>
 Date:   Tue Sep 5 16:59:39 2023 -0400"
-9) My repository now shows both my answer and README file on the left side. 
+9) My repository now shows both my answer and README file on the left side.
+10) The changes I made online were not reflected in my local copy.
+11) The git pull command did reflect the changes I made online.
+12) The changes I made online were reflected.
+13) 
