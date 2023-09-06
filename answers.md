@@ -7,4 +7,8 @@
 5) The output of the git status command now shows README.md as a new file and it shows answers.md as an untracked file.
 6) After adding the second file to the staging area they both show up as green.
 7) After both files are commited neither of them show up anymore when using the git status command.
-8) 
+8) The output of the git log is
+"commit 57d616a8f4f226f7fb22e4a0047c1ce58327377c (HEAD -> main, origin/main)
+Author: Sophie151 <Sw030522@ohio.edu>
+Date:   Tue Sep 5 16:59:39 2023 -0400"
+9) My repository now shows both my answer and README file on the left side. 
