@@ -15,4 +15,5 @@ Date:   Tue Sep 5 16:59:39 2023 -0400"
 10) The changes I made online were not reflected in my local copy.
 11) The git pull command did reflect the changes I made online.
 12) The changes I made online were reflected.
-13) 
+13) The output shows up as "  ..  .git  README.md  README.md.save  answers.md  git-lab-2"
+14) 
